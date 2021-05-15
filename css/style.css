@@ -244,3 +244,26 @@ main {
     color: var(--secondary-blue);
 }
 
+.currency-table--date{
+    width: 190px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.currency-table--date p{
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    font-weight: 300;
+    color: var(--warm-black);
+}
+
+.monedas{
+    background-color: var(--soft-orange);
+}
+
+.comisiones{
+    background-color: #E7F5FF;;
+}

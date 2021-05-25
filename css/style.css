@@ -449,7 +449,7 @@ main {
     width: 120px;
     height: 31px;
     top: -15px;
-    left: calc(50%-60px);
+    left: 30%;
     font-size: 1.2rem;
     padding: 6px;
     background-color: var(--bitcoin-orange);
@@ -476,6 +476,7 @@ main {
 .plan-card--price span{
     font-size: 1.2rem;
     font-weight: 300;
+    vertical-align: text-top;
 }
 
 .plan-card--saving{
